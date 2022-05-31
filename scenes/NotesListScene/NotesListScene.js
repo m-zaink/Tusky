@@ -1,7 +1,7 @@
 import React from "react";
 import { View, StyleSheet } from "react-native";
 
-const NotesScene = () => {
+const NotesListScene = () => {
     return <View style={styles.sceneStyle}></View>;
 };
 
@@ -13,4 +13,4 @@ const styles = StyleSheet.create({
     },
 });
 
-export default NotesScene;
+export default NotesListScene;
